@@ -1,6 +1,6 @@
-# About Project
+# About the Project
 
-Basic dapp with connect wallet button. It gets data from the first account on MetaMask then prints to the screen. When account changes it updates the UI.
+Basic dapp with connect wallet button. It gets data from the first account on MetaMask then prints to the screen. When the account changes it updates the UI.
 
 # Getting Started with Create React App
 
