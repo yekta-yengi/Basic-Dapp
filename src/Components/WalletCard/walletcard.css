@@ -1,0 +1,11 @@
+.walletCard {
+	margin: 1rem;
+	border: 2px solid black;
+	border-radius: 10px;
+	margin: 50px 60px;
+	background-color: rgb(231, 195, 159);
+}
+.btnConn{
+    font-size: 20px;
+    padding: 10px;
+}
